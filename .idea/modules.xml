@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BIG_DATA_SXT3.iml" filepath="$PROJECT_DIR$/BIG_DATA_SXT3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HadoopAnalysis.iml" filepath="$PROJECT_DIR$/HadoopAnalysis.iml" />
     </modules>
   </component>
 </project>
